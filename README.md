@@ -28,7 +28,7 @@ The store wants to create an annula report of 2022. So that, the owner of the st
 - Women are more likely to bus compared to men (~65%)
 - Maharastra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
 - Adult group (30-49 yrs) is max contributing (~50%)
-- Amazon, Fliokart and Myntra Channels are max contributing (~80%)											
+- Amazon, Flipkart and Myntra Channels are max contributing (~80%)											
 ## Final Conclusion to improve Vindra store sales
 Target Women customers of age group(30-49 yrs) living in  Maharastra, Karnataka and Uttar Pradesh  by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
