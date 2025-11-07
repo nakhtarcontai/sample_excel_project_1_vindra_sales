@@ -12,9 +12,15 @@ The store wants to create an annula report of 2022. So that, the owner of the st
 - Relation between age and gender based on number of orders
 - Which channel is contributig to maximum sales?
 - Highest selling cataegory?
+- Percentage of Total Orders delivered
+- Dashboard Interaction <a href="https://github.com/nakhtarcontai/sample_excel_project_1_vindra_sales/blob/main/dashboard_of_project.png">Dashboard</a>
 
 ## Process
 - Verifying for any missing values and anomalies and sort out them.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables accoording to the questions asked
-- MMerge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dasboard
+
+
