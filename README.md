@@ -24,5 +24,5 @@ The store wants to create an annula report of 2022. So that, the owner of the st
 ## Dasboard
 <img width="744" height="610" alt="ss" src="https://github.com/user-attachments/assets/6e1e93c6-bb0f-48b6-b3ec-a19990260899" />
 
-
+## Project Insight
 
